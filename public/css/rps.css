@@ -1,0 +1,16 @@
+.win {
+  background-color:  #5CB85C !important;
+}
+
+.lose {
+  background-color:  #D9534F !important;
+}
+
+.tie {
+  background-color:  #F0AD4E !important;
+}
+
+.center {
+  display: inline;
+  transform: translate(-50%, -50%);
+}
